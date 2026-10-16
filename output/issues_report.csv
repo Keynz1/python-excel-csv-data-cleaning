@@ -1,0 +1,5 @@
+﻿source,row_number,id,reason
+source_a.csv,4,1003,invalid email
+source_a.csv,5,1004,missing name
+source_b.xlsx,3,1005,invalid amount
+source_b.xlsx,5,1007,missing email

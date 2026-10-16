@@ -1,0 +1,6 @@
+Merge / Deduplication / Validation Demo Report
+Input rows: 8
+Unique output rows: 7
+Duplicates removed: 1
+Validation issues: 4
+Duplicate rule: normalized ID; source filename then row number wins conflicts.

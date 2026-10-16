@@ -1,0 +1,8 @@
+﻿id,name,email,amount,status
+1001,Alice Morgan,alice.morgan@example.com,120.00,Paid
+1002,Bob Lee,bob.lee@example.com,75.00,New
+1003,Carol King,bad-email,199.99,Pending
+1004,,missing.name@example.com,30.00,Paid
+1005,David Stone,david.stone@example.com,,New
+1006,Ethan Hall,ethan.hall@example.com,-15.00,Pending
+1007,Maya Chen,,310.25,New

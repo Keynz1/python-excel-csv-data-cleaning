@@ -1,0 +1,5 @@
+﻿ ID ,NAME,Email,Amount,Status
+1001,alice morgan,ALICE.MORGAN@example.com,120,paid
+1002,bob lee,bob.lee@example.com,75,new
+1003,carol king,bad-email,199.99,pending
+1004,,missing.name@example.com,30,paid
